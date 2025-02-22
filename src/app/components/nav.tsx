@@ -17,10 +17,19 @@ export default function Nav() {
               Home
             </Link>
             <Link className="mr-5 hover:text-gray-900" href="/1">
-              Page1
+              1
             </Link>
             <Link className="mr-5 hover:text-gray-900" href="/2">
-              Page2
+              2
+            </Link>
+            <Link className="mr-5 hover:text-gray-900" href="/3">
+              3
+            </Link>
+            <Link className="mr-5 hover:text-gray-900" href="/4">
+              4
+            </Link>
+            <Link className="mr-5 hover:text-gray-900" href="/5">
+              5
             </Link>
           </nav>
         </div>
